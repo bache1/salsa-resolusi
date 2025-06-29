@@ -3,7 +3,9 @@ RENCANA USAHA SALSA
   * Ulang tahun
   * Perpisahan
   * Nikahan 
-- Buka toko Fotokopi
+    ^ Sendok
+    ^ Gelas
 - Keyrings
+    ^ Tentang NCT
 - Sablon Baju
 - Sablon Totebag
